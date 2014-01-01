@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/javierAle/Documents/DevFest/Android Client/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="gdg"
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/drawable-mdpi/gdg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="activity_create"
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/layout/activity_create.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_find"
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/layout/activity_find.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="create"
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/menu/create.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="find"
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/menu/find.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/values/strings.xml"
+                qualifiers="" >
+                <string name="other_btn" >Other
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="create" >Create
+                </string>
+                <string name="app_name" >Twitter Contacts
+                </string>
+                <string name="find" >Find
+                </string>
+                <string name="title_activity_create" >CreateActivity
+                </string>
+                <string name="et_handle" >Handle
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="et_name" >Name
+                </string>
+                <string name="helper_tf_find" >Name
+                </string>
+                <string name="title_activity_find" >FindActivity
+                </string>
+            </file>
+            <file
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/javierAle/Documents/DevFest/Android Client/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/javierAle/Documents/DevFest/Android Client/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/javierAle/Documents/DevFest/Android Client/src/debug/res" />
+    </dataSet>
+
+</merger>

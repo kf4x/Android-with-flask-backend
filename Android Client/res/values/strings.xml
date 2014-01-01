@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitter Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="create">Create</string>
+    <string name="find">Find</string>
+    <string name="other_btn">Other</string>
+    <string name="title_activity_create">CreateActivity</string>
+    <string name="title_activity_find">FindActivity</string>
+    <string name="helper_tf_find">Name</string>
+    <string name="et_name">Name</string>
+    <string name="et_handle">Handle</string>
+
+</resources>
