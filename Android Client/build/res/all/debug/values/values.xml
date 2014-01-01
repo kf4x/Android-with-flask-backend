@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/javierAle/Documents/DevFest/Android%20Client/res/values/dimens.xml -->
+    <!-- From: file:/Users/javierAle/Documents/Demo/Android%20Client/res/values/dimens.xml -->
     <eat-comment />
 
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/javierAle/Documents/DevFest/Android%20Client/res/values/strings.xml -->
+    <!-- From: file:/Users/javierAle/Documents/Demo/Android%20Client/res/values/strings.xml -->
     <eat-comment />
 
     <string name="action_settings">Settings</string>
@@ -20,7 +20,7 @@
     <string name="other_btn">Other</string>
     <string name="title_activity_create">CreateActivity</string>
     <string name="title_activity_find">FindActivity</string>
-    <!-- From: file:/Users/javierAle/Documents/DevFest/Android%20Client/res/values/styles.xml -->
+    <!-- From: file:/Users/javierAle/Documents/Demo/Android%20Client/res/values/styles.xml -->
     <eat-comment />
 
     <style name="AppBaseTheme" parent="android:Theme.Light">

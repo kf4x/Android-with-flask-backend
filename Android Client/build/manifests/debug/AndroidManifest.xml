@@ -1,4 +1,4 @@
-<!-- From: file:/Users/javierAle/Documents/DevFest/Android%20Client/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.javierc.beta">
+<!-- From: file:/Users/javierAle/Documents/Demo/Android%20Client/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.javierc.beta">
 
     <uses-sdk android:minSdkVersion="13" android:targetSdkVersion="17"/>
     <uses-permission android:name="android.permission.INTERNET"/>

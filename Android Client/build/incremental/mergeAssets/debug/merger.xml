@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/javierAle/Documents/DevFest/Android Client/assets" />
+        <source path="/Users/javierAle/Documents/Demo/Android Client/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/javierAle/Documents/DevFest/Android Client/src/debug/assets" />
+        <source path="/Users/javierAle/Documents/Demo/Android Client/src/debug/assets" />
     </dataSet>
 
 </merger>

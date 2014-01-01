@@ -35,7 +35,6 @@ def new_user():
 
     if request.method == 'POST':
         if request.headers['Content-Type'] == 'application/json':
-            print "khi"
 
             client = MongoClient()
 
